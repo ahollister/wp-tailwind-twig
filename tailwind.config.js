@@ -10,7 +10,6 @@ module.exports = {
     enabled: false, // Set to true for production builds
     content: [
       './components/**/*.twig',
-      './components/**/*.php',
       './assets/styles/**/*.scss',
       './**/*.php'
     ]
