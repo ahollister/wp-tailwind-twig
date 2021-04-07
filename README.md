@@ -52,4 +52,4 @@ The method for creating new components is as follows:
 
 ## Source control
 
-If you are using source control in your project, make sure that you always commit the contents of the acf-json/ directory with your new components, as that is how ACF knows the field setup.
+If you are using source control in your project, make sure that you always commit the contents of the acf-json/ directory with your new components, the JSON files in this directory are ACF's reference to the current state of the content fields.
